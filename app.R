@@ -4,7 +4,6 @@ rm(list= ls())
 library(tidyverse)
 library(sf)
 library(leaflet)
-library(leafem)
 library(shiny)
 
 # Data
