@@ -1,4 +1,4 @@
-# Interactive Map Analytics Tool For Mexican Electric Vehicle (EV) Charging Infrastructure
+# Geomapping Analytics Tool For Mexican Electric Vehicle (EV) Charging Infrastructure
 
 ![Screenshot](https://raw.githubusercontent.com/martinsingla/Mapping-Mexico-EV-Infrastructure/main/Screenshot-Mex_EVChargers_InteractiveTool_3.23.2021.png)
 
