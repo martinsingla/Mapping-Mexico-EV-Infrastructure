@@ -1,7 +1,6 @@
 # Interactive Map Analytics Tool For Mexican Electric Vehicle (EV) Charging Infrastructure
 
 ![Screenshot](https://raw.githubusercontent.com/martinsingla/Mapping-Mexico-EV-Infrastructure/main/Screenshot-Mex_EVChargers_InteractiveTool_3.23.2021.png)
-Format: ![Alt Text](url)
 
 The present R script creates an interactive mapping tool based on Shiny framework that visualizes EV charging infrastructure across Mexico (as per available in January 2021). The tool is ideal for EV charger market location analytics, reproductible for multiple countries and can be updated on time. 
 
